@@ -11,10 +11,10 @@ What's installed?
 ## Installation
 Run the install.sh script from inside the dotfiles folder. 
 
-- `cd dotfiles/`
+- `cd dotfiles-p10k/`
 - `chmod +x install.sh`
 - `./install.sh`
 
 ## WARNINGS
 - Do not run the executables from outside the dotfile folder. Doing so may have unintended consequences.
-- Do not delete the `dotfiles` folder as it will cause zsh and other things to break
+- Do not delete the `dotfiles-p10k` folder as it will cause zsh and other things to break

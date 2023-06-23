@@ -4,6 +4,7 @@ export GOPATH=$HOME/data/go-workspace
 export GOROOT=/usr/local/opt/go/libexec
 export PATH=$PATH:$GOPATH/bin
 export PATH=$PATH:$GOROOT/bin
+export PATH=$PATH:/home/mj/.local/bin
 
 ## Set THEME and COLORS.
 ZSH_THEME="powerlevel10k/powerlevel10k"
